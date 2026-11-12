@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# build output
+client/dist/
+
+# environment files
+.env
+
+# local database files (mongodb-memory-server)
+server/data/
+
+# personal study notes, not part of the submission
+notes/
+.DS_Store
