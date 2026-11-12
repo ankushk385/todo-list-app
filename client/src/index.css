@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* app colors, taken from the Figma design */
+@theme {
+  --color-primary: #4366e8;
+  --color-primary-dark: #3350c2;
+  --color-accent: #0199fc;
+  --color-ink: #202954;
+  --color-muted: #64708e;
+  --color-page: #eef0f6;
+  --color-danger: #e5484d;
+}
